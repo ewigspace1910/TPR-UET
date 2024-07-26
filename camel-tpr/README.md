@@ -1,5 +1,5 @@
 ## Introduction
-PyTorch implementation for [🐪CAMEL : Combination of Asymmetrically Dual Representation Learning with Mutual Data Filtering and Masked Language Modeling for Text-based Person Retrieval]() (Summited to ESA journal 2024). 
+PyTorch implementation for [🐪CAMEL : Combination of Asymmetrically Dual Representation Learning with Mutual Data Filtering and Masked Language Modeling for Text-based Person Retrieval]() . 
 
 ### News!
 

@@ -9,6 +9,6 @@ I mark works contributed by my team with ⭐.
 
 - `[submited to ESA]` **🐪CAMEL : Combination of Asymmetrically Dual Representation Learning with Mutual Data Filtering and Masked Language Modeling for Text-based Person Retrieval**  
 *[Anh D. Nguyen ⭐](https://ewigspace1910.github.io/), [Dang H. Pham](), [Hoa N. Nguyen*](https://scholar.google.com/citations?hl=en&user=8zApxWUAAAAJ)   
-[[paper]]() [[code]](https://github.com/ewigspace1910/TPR-UET/camel-tpr)*
+[[paper]]() [[code]](https://github.com/ewigspace1910/TPR-UET/tree/main/camel-tpr)*
 
 
