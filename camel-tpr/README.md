@@ -6,7 +6,7 @@ PyTorch implementation for [🐪CAMEL : Combination of Asymmetrically Dual Repre
 - [06/2024] Push Initial rep on Github and Release unofficial code, results, pretrained models. Citation, official code will be updated when the paper is accepted.
 
 
-### Camcel framework
+### Camel framework
 Text-based person retrieval (TPR) aims to retrieve the target person based on a textual query. Though this topic is compelling numerous research works but the primary main challenge, which is to learn the mapping of visual and
 textual modalities into the same feature space, still not solved out as expectation of the community. Besides that, the noise in large training datasets and variance language in caption query also become the big issues. Thus, we introduces CAMEL, a novel approach for TPR , by integrate a data filtering and a new masked language modeling into a dual-branch architecture. Especially, CAMEL enables to learn both global and local representation of samples in order to improve the quality of result responses by. Our approach encompasses some key contributions: (1) Global and Local Representation asymmetric learning that fully exploit salient information of image and text to enhance retrieval process. (2) Data Filtering Strategy is used to identify valuable samples within datasets. (3) Masked language modeling is enhanced to improve the feature encoding capability of model. We also validate our method’s effectiveness through rigorous experiments on three popular benchmarks: CUHK-PEDES, ICFG-PEDES, and RSTPReid, demonstrating
 superior performance over existing methods.
