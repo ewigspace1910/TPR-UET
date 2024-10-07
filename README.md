@@ -1,4 +1,4 @@
-#  Summary of Text based person retrieval Researches published by members in the Department of Information Systems, VNU University of Engineering and Technology (Updating)
+#  Summary of Text based person retrieval/person reid Researches published by members in the Department of Information Systems, VNU University of Engineering and Technology (Updating)
 This repo contain code for research projects about Text based person retrieval (or Text based person search) with participation of members in the Department of Information Systems, VNU University of Engineering and Technology
 I mark works contributed by my team with ⭐.
 
@@ -11,4 +11,7 @@ I mark works contributed by my team with ⭐.
 *[Anh D. Nguyen ⭐](https://ewigspace1910.github.io/), [Hoa N. Nguyen*](https://scholar.google.com/citations?hl=en&user=8zApxWUAAAAJ)   
 [[paper]]() [[code]](https://github.com/ewigspace1910/TPR-UET/tree/main/camel-tpr)*
 
+
+
+#### 2023
 
