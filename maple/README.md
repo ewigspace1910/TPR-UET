@@ -17,12 +17,12 @@ pip install -r requirement
 ```
 ### Preparing Datasets
 ```shell
-mkdir data
+mkdir /data
 ```
 Download the object re-ID datasets [Market-1501](https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view), [MSMT17](https://arxiv.org/abs/1711.08565) to `/data`.
 The directory should look like:
 ```
-PPLR/examples/data
+/data
 ├── Market-1501-v15.09.15
 └── MSMT17_V2
 ```
